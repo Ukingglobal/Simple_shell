@@ -5,4 +5,4 @@
  * @n: number of bytes
  *
  * return: copied data with the n byte changed
- */ 
+ */
